@@ -5,7 +5,7 @@
 
 
 
-### Transfer Confirmed [***payment confirmation status***]
+### Bitcoin Transaction [***payment confirmation status***]
 ### Recepient : 
     39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz
 
@@ -15,7 +15,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | Address:                  | 39Kn3XYPUmrud...qHwnUYg6uvz|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| Time:                     | 6:34am                    |
+| Time:                     | 6:00 AM                    |
 | date:                     | 19th April/25              |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
@@ -46,8 +46,7 @@ Bitcoin ***SBR*** fee to for immediate reflection to **BTC** address destination
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> [SBR] Submitted </button>
-
-  <img src="IMG_8280.gif" alt="loading gif display" width="700">
+ <img src="IMG_8280.gif" alt="loading gif display" width="700">
 
   
 <img src="IMG_8523.jpeg" alt="ethscan Logo" width="700" />
