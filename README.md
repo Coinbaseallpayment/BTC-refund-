@@ -6,35 +6,33 @@
 
 
 ### Transfer Confirmed [***payment confirmation status***]
-### 0.65975106 BTC 
+### Recepient : 
+    39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz
 
 Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a] 🔒**
 
      
-| Address:                  | bc1qjx64jyggq...vn3m8f6n6cffs|
+| Address:                  | 39Kn3XYPUmrud...qHwnUYg6uvz|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
 | Time:                     | 6:34am                    |
-| date:                     | 7th April/25              |
-| Coindays destroyed:       | 57,246                    |
-| FEE:                      | $1431 USD (0.01619854 BTC) |
+| date:                     | 19th April/25              |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
 | Inputs count:             | 3,359                     |
 | outputs count:            | 3,714                     |
-| From:                     | selfrecoveryunit.cb.id    |
-| To:                       | bc1qjx64jyggq...vn3m8f6n6cffs|
-| Fee/A:                    | $950 USD (0.01099186 BTC)  |
-| Fee/B:                    | $800 USD (0.00925631 BTC) {TXN report status}|
-| Locktime:                 | 48hours {duration}        |
-| BTC Price:                | $85,078                   |     
+| From:                     | CoinStats Recovery        |
+| To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
+| SBR Block:                | $514 USD (0.00603797 BTC) |
+| Locktime:                 | Weaved                    |
+| BTC Price:                | $90,391                   |     
 
-***mempool block :     0.02538824 BTC [$2200 usd]***
+***SBR block :     0.0.00603797 BTC [$514 usd]***
 
 |
 
-**SBR Block:** 1DVPSQ668qURLh1seLoyBo3J6sRNEEsJPy
+**SBR Block:** bc1q55cdvhaxvnzvvsnrwplszg0z7q8k4hkztxe5n5
 <img src="IMG_8336.jpeg" alt="blockchain Logo" width="30" />
 
      
@@ -44,7 +42,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[c28e18cd0230c-0-0-0-af9ddcc9b0af8a
 ✅ This transaction is efficient, no issues detected.✓⃝
 
 **SUMMARY** This transaction will require significant
-Bitcoin network fee to for immediate reflection to **crypto.com** address destination!
+Bitcoin ***SBR*** fee to for immediate reflection to **BTC** address destination!
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit">Submit and Redirect</button>
