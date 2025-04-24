@@ -26,7 +26,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | Locktime:                 | Weaved                    |
 | BTC Price:                | $90,391                   |     
 
-***SBR block :     0.0.00603797 BTC [$514 usd]***
+***SBR block :     0.00449347 BTC [$414 usd]***
 
 |
 
