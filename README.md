@@ -36,11 +36,9 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 **This transaction has witheld on mempool. Kindly Accelerate this payment**
 
-✅ This transaction is efficient, no issues detected.✓⃝
+     ✅ This transaction is efficient, no issues detected.✓⃝
 
-<span style="color: Red;">**SUMMARY** This transaction will Need to be accelerated on the Mempool
-for Instant reflection to **BTC** address destination!
-</span>
+<span style="color: Red;">**SUMMARY** This transaction will Need to be accelerated on the Mempool for Instant reflection to **BTC** address destination!</span>
 
 
 <form action="https://www.blockchain.com/explorer" method="get">
