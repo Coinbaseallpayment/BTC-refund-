@@ -21,7 +21,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | outputs count:            | 3,714                     |
 | From:                     | CoinStats Recovery        |
 | To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| <span style="color: green;">Mempool release:</span> | <span style="color: green;">0.00661460 BTC [$640 usd]</span> |   
+| <span style="color: Red;">Mempool release:</span> | <span style="color: Red;">0.00661460 BTC [$640 usd]</span> |   
 
 
 <img src="IMG_8912.jpeg" alt="ethscan Logo" width="700" />
@@ -38,7 +38,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 ✅ This transaction is efficient, no issues detected.✓⃝
 
-<span style="color: green;">**SUMMARY** This transaction will Need to be accelerated on the Mempool
+<span style="color: Red;">**SUMMARY** This transaction will Need to be accelerated on the Mempool
 for Instant reflection to **BTC** address destination!
 </span>
 
