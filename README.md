@@ -4,7 +4,8 @@
 <img src="IMG_8530.jpeg" alt="payslip" width="700" />
 
 ### Recepient >>>
-    39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz 
+<span style="color: green;">39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</span>
+
 
 Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
@@ -20,7 +21,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | outputs count:            | 3,714                     |
 | From:                     | CoinStats Recovery        |
 | To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| Mempool release:          | $640 USD (0.00661460 BTC) |   
+| <span style="color: green;">Mempool release:</span> | <span style="color: green;">0.00661460 BTC [$640 usd]</span> |   
 
 
 <img src="IMG_8912.jpeg" alt="ethscan Logo" width="700" />
@@ -37,8 +38,10 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 ✅ This transaction is efficient, no issues detected.✓⃝
 
-**SUMMARY** This transaction will Need to be accelerated on the Mempool
+<span style="color: green;">**SUMMARY** This transaction will Need to be accelerated on the Mempool
 for Instant reflection to **BTC** address destination!
+</span>
+
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> I HAVE PAID RELESE MY BTC </button>
