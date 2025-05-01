@@ -22,11 +22,11 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | outputs count:            | 3,714                     |
 | From:                     | CoinStats Recovery        |
 | To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| SBR Block:                | $514 USD (0.00603797 BTC) |
+| SBR Block:                | $104 USD (0.00109705 BTC) |
 | Locktime:                 | Weaved                    |
 | BTC Price:                | $90,391                   |     
 
-***SBR block :     0.00449347 BTC [$414 usd]***
+***SBR block :     0.00109705 BTC [$104 usd]***
 
 |
 
