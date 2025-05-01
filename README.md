@@ -6,7 +6,7 @@
 ### Recepient0.00661460: 
     39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz 
 
-Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
+Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
      
 | Address:                  | 39Kn3XYPUmrud...qHwnUYg6uvz|
@@ -20,7 +20,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | outputs count:            | 3,714                     |
 | From:                     | CoinStats Recovery        |
 | To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| SBR Block:                | $640 USD (0.00661460 BTC) |   
+| Mempool release:          | $640 USD (0.00661460 BTC) |   
 
 
 <img src="IMG_8912.jpeg" alt="ethscan Logo" width="700" />
