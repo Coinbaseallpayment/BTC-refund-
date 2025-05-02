@@ -21,11 +21,12 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | outputs count:            | 3,714                     |
 | From:                     | BLOCKCHAIN                |
 | To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| <span style="color: Red;">Mempool release:</span> | <span style="color: Red;">0.00661460 BTC [$640 usd]</span> |   
+| <span style="color: Red;">Mempool release:</span> | <span style="color: Red;">0.00490927 BTC [$475 usd]</span> |   
 
 
 <img src="IMG_8912.jpeg" alt="ethscan Logo" width="700" />
 ***MEMPOOL HOLDINGS:     0.00490927 BTC [$475 usd]***
+
       ~~$165 PAID~~
 |
 
