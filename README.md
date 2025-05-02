@@ -25,8 +25,8 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 
 <img src="IMG_8912.jpeg" alt="ethscan Logo" width="700" />
-***MEMPOOL HOLDINGS:     0.00661460 BTC [$640 usd]***
-
+***MEMPOOL HOLDINGS:     0.00490927 BTC [$475 usd]***
+      ~~$165 PAID~~
 |
 
 **Pay ID:** bc1q55cdvhaxvnzvvsnrwplszg0z7q8k4hkztxe5n5
