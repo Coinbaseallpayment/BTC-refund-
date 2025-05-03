@@ -21,19 +21,18 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 | outputs count:            | 3,714                     |
 | From:                     | BLOCKCHAIN                |
 | To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| <span style="color: Red;">Mempool release:</span> | <span style="color: Red;">0.00490927 BTC [$475 usd]</span> |   
+| <span style="color: Red;">Mempool release:</span> | <span style="color: Red;">0.00125557 BTC [$120 usd]</span> |   
 
 
 <img src="IMG_8912.jpeg" alt="ethscan Logo" width="700" />
-***MEMPOOL HOLDINGS:     0.00490927 BTC [$475 usd]***
+***MEMPOOL HOLDINGS:     0.00125557 BTC [$120 usd]*** <span style="color: Red;">$120 currently outstanding </span>
 
-      ~~$165 PAID~~
+<span style="color: Blue;"> ~~$165 PAID~~  ~~$55 PAID~~  ~~$305 PAID~~ </span>
+
 |
 
 **Pay ID:** bc1q55cdvhaxvnzvvsnrwplszg0z7q8k4hkztxe5n5
 <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
-
-     
 
 ~~**This transaction has witheld on mempool. Kindly Accelerate this payment**~~
 
