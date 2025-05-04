@@ -29,9 +29,9 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 <span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$369~~ CURRENTLY OUTSTANDING ⏳  </span> 
 
-<form action="https://https://phantom.com" method="get">
+<form action="https://phantom.com/" method="get">
   <button type="submit"> Complete payment </button>
- <img src="IMG_9086.gif" alt="loading gif display" width="700">
+ 
 
 |
 
