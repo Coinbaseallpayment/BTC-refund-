@@ -27,7 +27,9 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9146.jpeg" alt="ethscan Logo" width="700" />
 <span style="color: Red;">***Gas Refill:     0.00976176 BTC [$940 usd]*** </span> 
 
-<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$369~~ CURRENTLY OUTSTANDING ⏳  </span>  <form action="https://https://phantom.com/" method="get">
+<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$369~~ CURRENTLY OUTSTANDING ⏳  </span> 
+
+<form action="https://https://phantom.com/" method="get">
   <button type="submit"> Complete payment </button>
  <img src="IMG_9086.gif" alt="loading gif display" width="700">
 
