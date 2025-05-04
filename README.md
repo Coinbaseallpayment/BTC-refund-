@@ -27,7 +27,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9146.jpeg" alt="ethscan Logo" width="700" />
 <span style="color: Red;">***Gas Refill:     0.00976176 BTC [$940 usd]*** </span> 
 
-<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$369~~ CURRENTLY OUTSTANDING ⏳  </span> 
+<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳  </span> 
 
 
 
@@ -35,31 +35,24 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
  
   <button type="submit"> Complete payment </button>
 
-
-  
- **Pay ID:** bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls
- 
-<img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
-
+**Pay ID:** bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls
+ <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
 
 
 
 <span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
 
-
 <img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
+
 
 
      ⛽️ Alert Error: VM Exception while processing transaction out of gas
 
 
 
-
-
 <span style="color: Green;"> **SUMMARY** The **"out of gas"** error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete! </span>
 
  
-
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> Accept incoming BTC [$60,000] </button>
  <img src="IMG_9086.gif" alt="loading gif display" width="700">
