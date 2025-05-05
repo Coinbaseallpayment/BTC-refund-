@@ -41,3 +41,6 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 
 <img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
+
+
+    ⛽️Alert Error: VM Exception while processing transaction out of gas
