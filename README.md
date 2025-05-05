@@ -35,3 +35,6 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
  **Pay ID:** bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls
  <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
+
+
+<span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
