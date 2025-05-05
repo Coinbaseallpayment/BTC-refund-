@@ -40,9 +40,10 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <button type="submit"> Complete payment </button>
 
 
+
 <span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
 
-
+__
 
 <img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
 
@@ -50,11 +51,12 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
      ⛽️ Alert Error: VM Exception while processing transaction out of gas
 
-
+__
 
 <span style="color: Orange;">**SUMMARY**The __"out of gas"__ error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span>
 
 
+--
 
 <form action="https://www.blockchain.com/explorer" method="get">
 <button type="submit"> Accept incoming BTC [$60,000] </button>
