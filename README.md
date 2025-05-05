@@ -43,7 +43,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <br>
 
 
-<span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
+<span style="color: Yellow;"> ~~Warning! Error encountered during contract execution [Out of gas]~~ ⚠️ </span>
 
 
 <br>
@@ -69,7 +69,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 
 
-<span style="color: Red;">**SUMMARY**The __"out of gas"__ error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span>
+<span style="color: Red;"> **SUMMARY** The <u>"out of gas"</u> error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete </span>
 
 
 
