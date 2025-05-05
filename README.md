@@ -56,7 +56,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
   </tr>
   <tr>
     <td><strong>Pay ID:</strong></td>
-    <td>bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls</td>
+    <td>bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls</td>  <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
   </tr>
 </table>  <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
 
