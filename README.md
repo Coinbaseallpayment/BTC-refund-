@@ -27,10 +27,40 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9146.jpeg" alt="ethscan Logo" width="700" />
 
 
-| <span style="color: Red;"> ***⛽️Gas Refill: </span> | <span style="color: Red;"> 0.00976176 BTC [$940 usd]*** </span>|
-|---------------------------|---------------------------|
-| <span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> | <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span> |
-| **Pay ID:**               | bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls |
+<style>
+  .responsive-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .responsive-table th, .responsive-table td {
+    padding: 5px; /* Reduce padding */
+    text-align: left;
+    font-size: 14px; /* Adjust font size */
+  }
+  @media (max-width: 600px) {
+    .responsive-table th, .responsive-table td {
+      display: block; /* Stack elements on small screens */
+      width: 100%;
+    }
+  }
+</style>
+
+<table class="responsive-table">
+  <tr>
+    <td style="color: Red;"><strong>⛽️ Gas Refill:</strong></td>
+    <td style="color: Red;"><strong>0.00976176 BTC [$940 USD]</strong></td>
+  </tr>
+  <tr>
+    <td style="color: Blue;"><strong>Gas Received</strong> <s>$301 PAID</s></td>
+    <td style="color: Red;"><s>$639</s> CURRENTLY OUTSTANDING ⏳</td>
+  </tr>
+  <tr>
+    <td><strong>Pay ID:</strong></td>
+    <td>bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls</td>
+  </tr>
+</table>
+
+<br>
 
 <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
 
