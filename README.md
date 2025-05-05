@@ -37,7 +37,12 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
  <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
 
 
+<form action="https://phantom.com/" method="get">
+<button type="submit"> Complete payment </button>
+
+
 <span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
+
 
 
 <img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
