@@ -30,3 +30,4 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <span style="color: Red;"> ***Gas Refill:     0.00976176 BTC [$940 usd]*** </span>
 
 
+<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span>
