@@ -26,13 +26,11 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9146.jpeg" alt="ethscan Logo" width="700" />
 
 
-<span style="color: Red;">***Gas Refill:     0.00976176 BTC [$940 usd]*** </span>
+<span style="color: Red;"> ***Gas Refill:     0.00976176 BTC [$940 usd]*** </span>
 
 
 
-
-
-<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳</span>
+<span style="color: Blue;"> **Gas Recevied**    ~~$301 PAID~~ </span> <span style="color: Red;"> ~~$639~~ CURRENTLY OUTSTANDING ⏳ </span>
 
 
 
@@ -52,8 +50,6 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
  
 
 
-
-
 <span style="color: Yellow;"> ~~**Warning! Error encountered during contract execution [Out of gas]**~~ ⚠️ </span>
 
 
@@ -63,12 +59,13 @@ Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 <img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
 
 
+
     ⛽️ Alert Error: VM Exception while processing transaction out of gas
     
 
 
 
-<span style="color: Green;">**SUMMARY** The **"out of gas"** error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete!</span 
+<span style="color: Green;"> **SUMMARY** The **"out of gas"** error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete! </span>
 
 
 
