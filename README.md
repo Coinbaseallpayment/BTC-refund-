@@ -45,7 +45,7 @@ Auto-process will initiate if re-registration is completed! </span>
 #### Complete Renewal Payment
 
 
-<img src="IMG_8745.jpeg" alt="blockchain Logo" width="90" />
+<img src="IMG_9322.jpeg" alt="blockchain Logo" width="200" />
 
 
 | Payment ID                | Details                                         |
