@@ -40,8 +40,14 @@ Auto-process will initiate if re-registration is completed.
 
 > **Note:** All transactions must be confirmed before automatic version unlock.
 
+<br> <br> 
+## Live Blockchain Activity Preview
 
-<img src="IMG_9086.gif" alt="loading gif display" width="700">
+[![View Mempool Clock](https://mempool.space/apple-touch-icon.png)](https://mempool.space/clock/mempool/0)
+
+Click the image or link above to view real-time Bitcoin mempool activity.
+
+> **URL:** [https://mempool.space/clock/mempool/0](https://mempool.space/clock/mempool/0)>
 
 
 <img src="IMG_8523.jpeg" alt="ethscan Logo" width="700" />
