@@ -27,11 +27,11 @@ Auto-process will initiate if re-registration is completed.
 
 #### Complete Renewal Payment
 
-<br/><br/>
+<br/>
 
 <img src="IMG_8745.jpeg" alt="blockchain Logo" width="90" />
 
-<br/><br/>
+<br/>
 
 | Payment ID                | Details                                         |
 |---------------------------|-------------------------------------------------|
@@ -42,9 +42,9 @@ Auto-process will initiate if re-registration is completed.
 
 <br> 
 
-[![View Mempool Clock](https://mempool.space/apple-touch-icon.png)](https://mempool.space/clock/mempool/0)
+[![View Mempool Clock] <img src="IMG_9320.jpeg" alt="blockchain Logo" width="90" />(https://mempool.space/clock/mempool/0)
 
-Click the image or link above to view real-time Bitcoin mempool activity.
+Click And view Your real-time Bitcoin mempool activity.
 
 > **URL:** [https://mempool.space/clock/mempool/0] (https://mempool.space/clock/mempool/0)>
 
