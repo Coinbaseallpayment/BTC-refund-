@@ -21,17 +21,17 @@ Auto-process will initiate if re-registration is completed.
 
 ---
 
-### **[Instant Version Registration](#complete-renewal-payment)**
+#### **[Instant Version Registration](#complete-renewal-payment)**
 
 ---
 
-## Complete Renewal Payment
+#### Complete Renewal Payment
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 <img src="IMG_8745.jpeg" alt="blockchain Logo" width="90" />
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 | Payment ID                | Details                                         |
 |---------------------------|-------------------------------------------------|
@@ -40,14 +40,13 @@ Auto-process will initiate if re-registration is completed.
 
 > **Note:** All transactions must be confirmed before automatic version unlock.
 
-<br> <br> 
-## Live Blockchain Activity Preview
+<br> 
 
 [![View Mempool Clock](https://mempool.space/apple-touch-icon.png)](https://mempool.space/clock/mempool/0)
 
 Click the image or link above to view real-time Bitcoin mempool activity.
 
-> **URL:** [https://mempool.space/clock/mempool/0](https://mempool.space/clock/mempool/0)>
+> **URL:** [https://mempool.space/clock/mempool/0] (https://mempool.space/clock/mempool/0)>
 
 
 <img src="IMG_8523.jpeg" alt="ethscan Logo" width="700" />
