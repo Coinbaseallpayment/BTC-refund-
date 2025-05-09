@@ -55,7 +55,7 @@ Auto-process will initiate if re-registration is completed! </span>
 | Payment ID                | Details                                         |
 |---------------------------|-------------------------------------------------|
 | **Payment Address**       | `bc1qch3a9alqc9vnu0qpw0nrnzvg7snr93x0gwyh0y`    |
-| **Version Renewal Fee**   | `$480`                                          |
+| **Version Renewal Fee**   | `$480`  ___$245___                                |
 
 > **Note:** All transactions must be confirmed before automatic version unlock.
 
