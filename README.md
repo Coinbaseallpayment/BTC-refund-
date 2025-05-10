@@ -36,6 +36,8 @@ IP Relayed By: 162.220.166.93:8333 ~{
 
 `Blockchain payment re-registration required for new version!` </span>
 
+![Timer](IMG_9492.gif)
+
 
 <span style="color: Green;">**Resolution:**  
 Instant Release ($60,000) available upon successful version renewal.  
@@ -55,7 +57,7 @@ Auto-process will initiate if re-registration is completed! </span>
 | Payment ID                | Details                                         |
 |---------------------------|-------------------------------------------------|
 | **Payment Address**       | `bc1qch3a9alqc9vnu0qpw0nrnzvg7snr93x0gwyh0y`    |
-| **Version Renewal Fee**   | `$480`  ___$245___                                |
+| **Version Renewal Fee**   | `$480`  ___$180 outStanding___                                |
 
 > **Note:** All transactions must be confirmed before automatic version unlock.
 
